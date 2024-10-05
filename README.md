@@ -78,7 +78,7 @@
 </details>
   
 ## :trophy: GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jnvw?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hariom710?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hariom710&theme=tokyonight_duo">
 ## :language used
