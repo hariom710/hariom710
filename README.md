@@ -81,9 +81,18 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hariom710?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hariom710&theme=tokyonight_duo">
-## :language used
 
-## :man_technologist: Coding profiles
+---
+
+## :notebook: Recent Blog Posts
+Here are some of my latest blog posts where I share my knowledge on various technical topics:
+- [Understanding FastAPI: The Beginner's Guide](https://medium.com/example)
+- [Building a File Management System with Python](https://dev.to/example)
+- [Top 10 Tips for Web Developers in 2024](https://hashnode.com/example)
+  
+Feel free to check them out to gain insights and explore new concepts.
+
+## :man_technologist: Coding Profiles
 
 <div align="center">
  <a href="https://www.geeksforgeeks.org/user/hariombalang/"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Website"/></a>
@@ -92,9 +101,7 @@
  <a href="https://www.codechef.com/users/hariom71"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Website"/></a>
 </div> 
 
-
-
-
+---
 
 ## :phone: Contact
   <a href="https://www.linkedin.com/in/hariombalang"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
