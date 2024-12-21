@@ -86,9 +86,9 @@
 
 ## :notebook: Recent Blog Posts
 Here are some of my latest blog posts where I share my knowledge on various technical topics:
-- [Understanding FastAPI: The Beginner's Guide](https://medium.com/example)
-- [Building a File Management System with Python](https://dev.to/example)
-- [Top 10 Tips for Web Developers in 2024](https://hashnode.com/example)
+- [Understanding FastAPI: The Beginner's Guide](https://github.com/hariom710)
+- [Building a File Management System with Python](https://github.com/hariom710)
+- [Top 10 Tips for Web Developers in 2024](https://github.com/hariom710)
   
 Feel free to check them out to gain insights and explore new concepts.
 
@@ -107,6 +107,6 @@ Feel free to check them out to gain insights and explore new concepts.
 ## :phone: Contact
   <a href="https://www.linkedin.com/in/hariombalang"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
   <a href="https://hariombalang.netlify.app/"><img src="https://img.icons8.com/doodle/48/undefined/domain.png" alt="Website"/></a>
-  <a href="https://instagram.com/hariombalang"><img src="https://img.icons8.com/color/48/undefined/instagram-new.png" alt="Instagram"/></a>
-  <a href="mailto:hariombalang@example.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/></a>
-  <p>Phone: +91-1234567890</p>
+  <a href="https://www.instagram.com/hariom_itself_"><img src="https://img.icons8.com/color/48/undefined/instagram-new.png" alt="Instagram"/></a>
+  <a href="mailto:hariombalang@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/></a>
+  <p>Phone: +91-9876543210</p>
