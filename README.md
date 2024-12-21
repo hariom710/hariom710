@@ -99,6 +99,7 @@ Feel free to check them out to gain insights and explore new concepts.
  <a href="https://leetcode.com/u/hariom71/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Website"/></a>
  <a href="https://www.hackerrank.com/profile/hariombalang"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Website"/></a>
  <a href="https://www.codechef.com/users/hariom71"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Website"/></a>
+ <a href="https://codeforces.com/profile/hariom71"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
 </div> 
 
 ---
@@ -106,3 +107,6 @@ Feel free to check them out to gain insights and explore new concepts.
 ## :phone: Contact
   <a href="https://www.linkedin.com/in/hariombalang"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
   <a href="https://hariombalang.netlify.app/"><img src="https://img.icons8.com/doodle/48/undefined/domain.png" alt="Website"/></a>
+  <a href="https://instagram.com/hariombalang"><img src="https://img.icons8.com/color/48/undefined/instagram-new.png" alt="Instagram"/></a>
+  <a href="mailto:hariombalang@example.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/></a>
+  <p>Phone: +91-1234567890</p>
