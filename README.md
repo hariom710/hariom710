@@ -97,5 +97,5 @@
 
 
 ## :phone: Contact
-  <a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
-  <a href="https://#/"><img src="https://img.icons8.com/doodle/48/undefined/domain.png" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/hariombalang"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
+  <a href="https://hariombalang.netlify.app/"><img src="https://img.icons8.com/doodle/48/undefined/domain.png" alt="Website"/></a>
