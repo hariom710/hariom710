@@ -6,8 +6,11 @@
 
 <br>
 
-## :point_right: About me
-<strong> I'm Hariom Balang, Computer Technology Undergrad, developer from India </strong>
+## :point_right: About Me
+<strong> I'm Hariom Balang, a Computer Technology Undergrad, passionate developer from India. I specialize in software development, web development, and machine learning. I am committed to solving real-world problems through technology and love contributing to open-source projects. </strong>
+
+## :rocket: Objective
+I'm a passionate Computer Technology undergrad with a deep interest in software development, machine learning, and problem-solving. I enjoy working on projects that have real-world impact and am always eager to learn new technologies. My ultimate goal is to build scalable solutions that improve user experiences and make people's lives easier.
 
 ## :hammer_and_wrench: Skills
 
@@ -21,9 +24,7 @@
    <a href="https://www.python.org/"><img src="https://img.icons8.com/fluency/48/undefined/python.png"/></a>
    <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/100/undefined/bash.png" width="12%"/></a>
 
-     
 <h3 align="center"> Web Development </h3>
-     
  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/></a>
  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/undefined/css3.png"/></a>
  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/></a>
@@ -36,47 +37,40 @@
  <a href="https://fastapi.tiangolo.com/lo/"><img width="45" height="45" src="https://github.com/PritamSarbajna/PritamSarbajna/assets/90236635/1bdf48d6-08c3-411e-af8c-80310596f131" /></a>
   <a href="https://nodejs.org/en"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
 
- <h3 align="center"> Tools </h3>
-     
+<h3 align="center"> Tools </h3>
  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/undefined/visual-studio.png"/></a>
  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/color/48/undefined/pycharm.png"/></a>
  <a href="https://www.jetbrains.com/idea/"><img src="https://img.icons8.com/color/48/undefined/intellij-idea.png"/></a>
  <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/48/undefined/android-studio--v3.png"/></a>
-
 </td>
-   
-<td width="50%" valign="top"> 
 
-
-  
+<td width="50%" valign="top">  
 <h3 align="center"> Database </h3>
-
-  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="10%"/></a>     <a href="https://www.sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/></a>
- 
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="10%"/></a>     
+  <a href="https://www.sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/></a>
   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
-  <a href="https://www.mysql.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/></a>
-     
-<h3 align="center"> OS </h3>
+  <a href="https://www.mongodb.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/></a>
 
+<h3 align="center"> OS </h3>
   <a href="https://www.microsoft.com/en-in/"><img src="https://img.icons8.com/color/48/undefined/windows-logo.png"/></a>
   <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/undefined/linux--v1.png"/></a>
- 
+
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 </td>
 </tr>
-
 </table>
-
 
 ## :computer: Open Source Contributions
 
 <details>
 <summary>Click me</summary>
-
-
- 
+<p>Here are some of my open-source contributions:</p>
+<ul>
+  <li>[Project 1](https://github.com/hariom710/Project-1) - Description of the contribution.</li>
+  <li>[Project 2](https://github.com/hariom710/Project-2) - Description of the contribution.</li>
+</ul>
 </details>
-  
+
 ## :trophy: GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hariom710?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
 
@@ -89,7 +83,7 @@ Here are some of my latest blog posts where I share my knowledge on various tech
 - [Understanding FastAPI: The Beginner's Guide](https://github.com/hariom710)
 - [Building a File Management System with Python](https://github.com/hariom710)
 - [Top 10 Tips for Web Developers in 2024](https://github.com/hariom710)
-  
+
 Feel free to check them out to gain insights and explore new concepts.
 
 ## :man_technologist: Coding Profiles
@@ -105,6 +99,7 @@ Feel free to check them out to gain insights and explore new concepts.
 ---
 
 ## :phone: Contact
+Feel free to reach out to me:
   <a href="https://www.linkedin.com/in/hariombalang"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
   <a href="https://hariombalang.netlify.app/"><img src="https://img.icons8.com/doodle/48/undefined/domain.png" alt="Website"/></a>
   <a href="https://www.instagram.com/hariom_itself_"><img src="https://img.icons8.com/color/48/undefined/instagram-new.png" alt="Instagram"/></a>
