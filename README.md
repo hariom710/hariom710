@@ -89,9 +89,8 @@
 
 ## :notebook: Recent Blog Posts
 Here are some of my latest blog posts where I share my knowledge on various technical topics:
-- [Understanding FastAPI: The Beginner's Guide](https://github.com/hariom710)
 - [Building a File Management System with Python](https://github.com/hariom710)
-- [Top 10 Tips for Web Developers in 2024](https://github.com/hariom710)
+
   
 Feel free to check them out to gain insights and explore new concepts.
 
