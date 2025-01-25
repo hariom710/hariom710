@@ -80,7 +80,10 @@
 ## :trophy: GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hariom710?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hariom710&theme=tokyonight_duo">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hariom710&theme=tokyonight_duo" alt="GitHub Streak Stats">
+
+
+
 
 ---
 
