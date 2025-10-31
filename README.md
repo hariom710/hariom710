@@ -44,11 +44,12 @@ I enjoy building AI-driven systems, web applications, and automation tools.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hariom710&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariom710&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=hariom710&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom710&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
+
 
 ## 🧠 Recent Blog Posts
 Here are some of my latest blog posts:
