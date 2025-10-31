@@ -31,7 +31,7 @@ I enjoy building AI-driven systems, web applications, and automation tools.
 
   <h3 align="center">🧠 Programming Languages</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=c" height="45" title="C"/>
+    <<img src="https://skillicons.dev/icons?i=c" height="45" title="C"/>
     <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++"/>
     <img src="https://skillicons.dev/icons?i=python" height="45" title="Python"/>
     <img src="https://skillicons.dev/icons?i=java" height="45" title="Java"/>
@@ -39,6 +39,10 @@ I enjoy building AI-driven systems, web applications, and automation tools.
     <img src="https://skillicons.dev/icons?i=go" height="45" title="Go"/><br>
     <img src="https://skillicons.dev/icons?i=typescript" height="45" title="TypeScript"/>
     <img src="https://skillicons.dev/icons?i=rust" height="45" title="Rust"/>
+    <img src="https://skillicons.dev/icons?i=r" height="45" title="R"/>
+    <img src="https://skillicons.dev/icons?i=matlab" height="45" title="MATLAB"/>
+    <img src="https://skillicons.dev/icons?i=kotlin" height="45" title="Kotlin"/>
+    <img src="https://skillicons.dev/icons?i=swift" height="45" title="Swift"/>
   </p>
 
   <h3 align="center">⚙️ Frameworks & Libraries</h3>
@@ -54,7 +58,13 @@ I enjoy building AI-driven systems, web applications, and automation tools.
     <img src="https://skillicons.dev/icons?i=fastapi" height="45" title="FastAPI"/>
     <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js"/>
     <img src="https://skillicons.dev/icons?i=express" height="45" title="Express.js"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" height="45" title="Next.js"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" height="45" title="Next.js"/><br>
+    <img src="https://skillicons.dev/icons?i=spring" height="45" title="Spring Boot"/>
+    <img src="https://skillicons.dev/icons?i=jquery" height="45" title="jQuery"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="45" title="TensorFlow"/>
+    <img src="https://skillicons.dev/icons?i=pytorch" height="45" title="PyTorch"/>
+    <img src="https://skillicons.dev/icons?i=scikitlearn" height="45" title="Scikit-learn"/>
+    <img src="https://skillicons.dev/icons?i=opencv" height="45" title="OpenCV"/>
   </p>
 
   <h3 align="center">🧰 Tools & IDEs</h3>
@@ -71,6 +81,9 @@ I enjoy building AI-driven systems, web applications, and automation tools.
     <img src="https://skillicons.dev/icons?i=jenkins" height="45" title="Jenkins"/>
     <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker"/>
     <img src="https://skillicons.dev/icons?i=vercel" height="45" title="Vercel"/>
+    <img src="https://skillicons.dev/icons?i=slack" height="45" title="Slack"/>
+    <img src="https://skillicons.dev/icons?i=discord" height="45" title="Discord"/>
+    <img src="https://skillicons.dev/icons?i=obsidian" height="45" title="Obsidian"/>
   </p>
 
 </td>
@@ -87,6 +100,10 @@ I enjoy building AI-driven systems, web applications, and automation tools.
     <img src="https://skillicons.dev/icons?i=firebase" height="45" title="Firebase"/><br>
     <img src="https://skillicons.dev/icons?i=prisma" height="45" title="Prisma ORM"/>
     <img src="https://skillicons.dev/icons?i=supabase" height="45" title="Supabase"/>
+    <img src="https://skillicons.dev/icons?i=neo4j" height="45" title="Neo4j"/>
+    <img src="https://skillicons.dev/icons?i=cassandra" height="45" title="Cassandra"/>
+    <img src="https://skillicons.dev/icons?i=elasticsearch" height="45" title="Elasticsearch"/>
+    <img src="https://skillicons.dev/icons?i=dynamodb" height="45" title="DynamoDB"/>
   </p>
 
   <h3 align="center">💻 Operating Systems</h3>
@@ -94,6 +111,8 @@ I enjoy building AI-driven systems, web applications, and automation tools.
     <img src="https://skillicons.dev/icons?i=linux" height="45" title="Linux"/>
     <img src="https://skillicons.dev/icons?i=ubuntu" height="45" title="Ubuntu"/>
     <img src="https://skillicons.dev/icons?i=windows" height="45" title="Windows"/>
+    <img src="https://skillicons.dev/icons?i=apple" height="45" title="MacOS"/>
+    <img src="https://skillicons.dev/icons?i=kali" height="45" title="Kali Linux"/>
   </p>
 
   <br>
