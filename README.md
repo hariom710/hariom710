@@ -31,17 +31,40 @@ I enjoy building AI-driven systems, web applications, and automation tools.
 
   <h3 align="center">🧠 Programming Languages</h3>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash&perline=4" height="45"/>
+    <img src="https://skillicons.dev/icons?i=c" height="45"/>
+    <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+    <img src="https://skillicons.dev/icons?i=python" height="45"/>
+    <img src="https://skillicons.dev/icons?i=java" height="45"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=bash" height="45"/>
   </div>
 
   <h3 align="center">⚙️ Frameworks & Libraries</h3>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,django,flask,fastapi,nodejs,express&perline=5" height="45"/>
+    <img src="https://skillicons.dev/icons?i=html" height="45"/>
+    <img src="https://skillicons.dev/icons?i=css" height="45"/>
+    <img src="https://skillicons.dev/icons?i=js" height="45"/>
+    <img src="https://skillicons.dev/icons?i=react" height="45"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+    <img src="https://skillicons.dev/icons?i=django" height="45"/>
+    <img src="https://skillicons.dev/icons?i=flask" height="45"/>
+    <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
   </div>
 
   <h3 align="center">🧰 Tools & IDEs</h3>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,git,github,postman,figma&perline=5" height="45"/>
+    <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+    <img src="https://skillicons.dev/icons?i=pycharm" height="45"/>
+    <img src="https://skillicons.dev/icons?i=idea" height="45"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="45"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=git" height="45"/>
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+    <img src="https://skillicons.dev/icons?i=postman" height="45"/>
+    <img src="https://skillicons.dev/icons?i=figma" height="45"/>
   </div>
 
 </td>
@@ -50,12 +73,17 @@ I enjoy building AI-driven systems, web applications, and automation tools.
 
   <h3 align="center">💾 Databases</h3>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres&perline=4" height="45"/>
+    <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+    <img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
   </div>
 
   <h3 align="center">💻 Operating Systems</h3>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,windows&perline=2" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linux" height="45"/>
+    <img src="https://skillicons.dev/icons?i=windows" height="45"/>
   </div>
 
   <br>
@@ -67,6 +95,7 @@ I enjoy building AI-driven systems, web applications, and automation tools.
 </td>
 </tr>
 </table>
+
 
 
 
