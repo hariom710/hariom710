@@ -49,12 +49,7 @@ A Computer Technology undergrad and aspiring software engineer from **India 🇮
      - Applied TF-IDF, LDA, and NMF to detect thematic breaks.  
      - Integrated YouTube APIs and deployed backend on Google Colab with Django integration.  
 
-- 🛠 **Skills**  
-  - **Programming Languages:** Python, C, C++, Java, MySQL  
-  - **Web Development:** HTML, CSS, JavaScript, Django  
-  - **Machine Learning / Data Science:** Scikit-learn, XGBoost, Pandas, Matplotlib  
-  - **Developer Tools:** Git, Linux, VS Code, Eclipse, Google Cloud, Docker  
-  - **Core CS Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Software Testing, NLP, Data Mining  
+
 
 - 📜 **Certifications**  
   - Geodata Processing Using Machine Learning (ISRO)  
