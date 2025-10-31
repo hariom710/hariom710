@@ -9,9 +9,13 @@
 ---
 
 ## 🕹️ My GitHub Contributions as a Breakout Game
-![snake gif](https://github.com/hariom710/hariom710/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hariom710/hariom710/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
+
 
 ## 👨‍💻 About Me
 **I'm Hariom Balang**, a Computer Technology undergrad and developer from **India 🇮🇳**  
