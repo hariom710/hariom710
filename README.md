@@ -23,48 +23,51 @@ I enjoy building AI-driven systems, web applications, and automation tools.
 
 ---
 
-:hammer_and_wrench: Skills
-<table> <tr> <td width="50%" valign="top">
+## :hammer_and_wrench: Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
   <h3 align="center">🧠 Programming Languages</h3>
-  <p align="center">
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" height="45"/></a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://skillicons.dev/icons?i=cpp" height="45"/></a>
-    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45"/></a>
-    <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="45"/></a>
-  </p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash&perline=4" height="45"/>
+  </div>
 
   <h3 align="center">⚙️ Frameworks & Libraries</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,django,flask,fastapi,nodejs" height="45"/>
-  </p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,django,flask,fastapi,nodejs,express&perline=5" height="45"/>
+  </div>
 
   <h3 align="center">🧰 Tools & IDEs</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,git,github,postman" height="45"/>
-  </p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,git,github,postman,figma&perline=5" height="45"/>
+  </div>
 
 </td>
 
 <td width="50%" valign="top">
 
   <h3 align="center">💾 Databases</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" height="45"/>
-  </p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres&perline=4" height="45"/>
+  </div>
 
   <h3 align="center">💻 Operating Systems</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,windows" height="45"/>
-  </p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=linux,windows&perline=2" height="45"/>
+  </div>
 
   <br>
 
-  <p align="center">
+  <div align="center">
     <img src="https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png" width="80%">
-  </p>
+  </div>
 
 </td>
-</tr> </table>
+</tr>
+</table>
+
 
 
 ## 🧩 Open Source Contributions
