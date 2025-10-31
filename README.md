@@ -8,11 +8,10 @@ this is my github profile look <div align="center">
 <h2 align="center"><b>🎮 My GitHub Contributions as a Breakout Game</b></h2>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-breakout.vercel.app/api?user=hariom710&theme=dark" alt="Breakout Game">
+</p>
+
 
 
 ## :point_right: About me
