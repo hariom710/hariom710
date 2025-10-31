@@ -81,7 +81,7 @@ I enjoy building AI-driven systems, web applications, and automation tools.
     <img src="https://skillicons.dev/icons?i=jenkins" height="45" title="Jenkins"/>
     <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker"/>
     <img src="https://skillicons.dev/icons?i=vercel" height="45" title="Vercel"/>
-    <img src="https://skillicons.dev/icons?i=slack" height="45" title="Slack"/>
+    <!-- <img src="https://skillicons.dev/icons?i=slack" height="45" title="Slack"/> -->
     <img src="https://skillicons.dev/icons?i=discord" height="45" title="Discord"/>
     <img src="https://skillicons.dev/icons?i=obsidian" height="45" title="Obsidian"/>
   </p>
