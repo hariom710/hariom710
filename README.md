@@ -7,10 +7,10 @@ this is my github profile look <div align="center">
 <br>
 <h2 align="center"><b>🎮 My GitHub Contributions as a Breakout Game</b></h2>
 
-
 <p align="center">
-  <img src="https://github-readme-breakout.vercel.app/api?user=hariom710&theme=dark" alt="Breakout Game">
+  <img src="https://github-readme-breakout.vercel.app/api?user=hariom710&theme=dark" alt="Breakout Game" />
 </p>
+
 
 
 
