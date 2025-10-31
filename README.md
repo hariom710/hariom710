@@ -18,8 +18,56 @@
 
 
 ## 👨‍💻 About Me
-**I'm Hariom Balang**, a Computer Technology undergrad and developer from **India 🇮🇳**  
-I enjoy building AI-driven systems, web applications, and automation tools.
+
+**Hi, I'm Hariom Ashok Balang** 👋  
+A Computer Technology undergrad and aspiring software engineer from **India 🇮🇳**. I am passionate about **AI, Machine Learning, Web Development, and Automation**.  
+
+- 🎓 **Education**  
+  - **Bachelor of Technology (B.Tech) in Computer Technology**, Yeshwantrao Chavan College of Engineering, Nagpur — CGPA: 8.0  
+  - **Higher Secondary Certificate (12th)**, Jawahar Navodaya Vidyalaya, Washim — 87%  
+  - **Secondary School Certificate (10th)**, Jawahar Navodaya Vidyalaya, Washim — 94%  
+
+- 🏆 **Patent**  
+  - **EV Charging Demand Prediction System**  
+  - **Patent (Published):** “Advanced Monitoring and Control Mechanism for Electric Vehicle Charging Station using Machine Learning Algorithm”  
+  - **Application No.:** 202521090973 A, India  
+  - **Publication Date:** 10/10/2025  
+
+- 💻 **Key Projects**  
+  1. **EV Charging Demand Prediction System** — Python, Django, Scikit-learn, XGBoost  
+     - Built a Django-based web interface to predict EV charging demand using historical & real-time data.  
+     - Implemented ML models (Random Forest, XGBoost, Linear Regression) with R² up to 0.92.  
+     - Engineered features like SoC, temperature, and time; visualized trends with Matplotlib.  
+
+  2. **File Manager Tool** — Python, Tkinter, OS & Shutil  
+     - Desktop application for efficient file and folder management.  
+     - Integrated PDF functionalities: splitting, merging, compressing, and converting images to PDF.  
+     - Automated repetitive tasks for seamless workflow.  
+
+  3. **YouTube Chapter Summarizer** — NLP, LDA, NMF, Sklearn, Streamlit, Google Cloud  
+     - Extracts and summarizes YouTube video chapters automatically from transcripts.  
+     - Applied TF-IDF, LDA, and NMF to detect thematic breaks.  
+     - Integrated YouTube APIs and deployed backend on Google Colab with Django integration.  
+
+- 🛠 **Skills**  
+  - **Programming Languages:** Python, C, C++, Java, MySQL  
+  - **Web Development:** HTML, CSS, JavaScript, Django  
+  - **Machine Learning / Data Science:** Scikit-learn, XGBoost, Pandas, Matplotlib  
+  - **Developer Tools:** Git, Linux, VS Code, Eclipse, Google Cloud, Docker  
+  - **Core CS Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Software Testing, NLP, Data Mining  
+
+- 📜 **Certifications**  
+  - Geodata Processing Using Machine Learning (ISRO)  
+  - Ethical Hacking Essentials (EC-Council)  
+  - Introduction to Unix (InfySpringboard)  
+  - Machine Learning Onramp (MATLAB)  
+
+- 🏅 **Achievements & Interests**  
+  - Competitive Coding: CodeChef 2-Star  
+  - Sports: 5-time Regional Kho-Kho player, Regional-level team captain  
+
+---
+
 
 ---
 
