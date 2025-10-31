@@ -23,13 +23,43 @@ I enjoy building AI-driven systems, web applications, and automation tools.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills Overview
 
+### 🧠 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,js,react,bootstrap,tailwind,django,flask,fastapi,nodejs,mysql,mongodb,sqlite,vscode,pycharm,idea,androidstudio,linux,windows&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash&perline=6" />
 </p>
 
 ---
+
+### ⚙️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,django,flask,fastapi,nodejs&perline=6" />
+</p>
+
+---
+
+### 💾 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=6" />
+</p>
+
+---
+
+### 🧰 Tools & IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,git,github,postman&perline=6" />
+</p>
+
+---
+
+### 💻 Operating Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows&perline=6" />
+</p>
+
+---
+
 
 ## 🧩 Open Source Contributions
 <details>
