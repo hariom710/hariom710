@@ -30,13 +30,13 @@ I enjoy building AI-driven systems, web applications, and automation tools.
 <td width="50%" valign="top">
 
   <h3 align="center">🧠 Programming Languages</h3>
-  <p align="center">
-    <<img src="https://skillicons.dev/icons?i=c" height="45" title="C"/>
+  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
+    <img src="https://skillicons.dev/icons?i=c" height="45" title="C"/>
     <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++"/>
     <img src="https://skillicons.dev/icons?i=python" height="45" title="Python"/>
     <img src="https://skillicons.dev/icons?i=java" height="45" title="Java"/>
     <img src="https://skillicons.dev/icons?i=bash" height="45" title="Bash"/>
-    <img src="https://skillicons.dev/icons?i=go" height="45" title="Go"/><br>
+    <img src="https://skillicons.dev/icons?i=go" height="45" title="Go"/>
     <img src="https://skillicons.dev/icons?i=typescript" height="45" title="TypeScript"/>
     <img src="https://skillicons.dev/icons?i=rust" height="45" title="Rust"/>
     <img src="https://skillicons.dev/icons?i=r" height="45" title="R"/>
@@ -46,19 +46,19 @@ I enjoy building AI-driven systems, web applications, and automation tools.
   </p>
 
   <h3 align="center">⚙️ Frameworks & Libraries</h3>
-  <p align="center">
+  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
     <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5"/>
     <img src="https://skillicons.dev/icons?i=css" height="45" title="CSS3"/>
     <img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript"/>
     <img src="https://skillicons.dev/icons?i=react" height="45" title="React"/>
     <img src="https://skillicons.dev/icons?i=bootstrap" height="45" title="Bootstrap"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" height="45" title="Tailwind CSS"/><br>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="45" title="Tailwind CSS"/>
     <img src="https://skillicons.dev/icons?i=django" height="45" title="Django"/>
     <img src="https://skillicons.dev/icons?i=flask" height="45" title="Flask"/>
     <img src="https://skillicons.dev/icons?i=fastapi" height="45" title="FastAPI"/>
     <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js"/>
     <img src="https://skillicons.dev/icons?i=express" height="45" title="Express.js"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" height="45" title="Next.js"/><br>
+    <img src="https://skillicons.dev/icons?i=nextjs" height="45" title="Next.js"/>
     <img src="https://skillicons.dev/icons?i=spring" height="45" title="Spring Boot"/>
     <img src="https://skillicons.dev/icons?i=jquery" height="45" title="jQuery"/>
     <img src="https://skillicons.dev/icons?i=tensorflow" height="45" title="TensorFlow"/>
@@ -68,20 +68,19 @@ I enjoy building AI-driven systems, web applications, and automation tools.
   </p>
 
   <h3 align="center">🧰 Tools & IDEs</h3>
-  <p align="center">
+  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
     <img src="https://skillicons.dev/icons?i=vscode" height="45" title="Visual Studio Code"/>
     <img src="https://skillicons.dev/icons?i=pycharm" height="45" title="PyCharm"/>
     <img src="https://skillicons.dev/icons?i=idea" height="45" title="IntelliJ IDEA"/>
     <img src="https://skillicons.dev/icons?i=androidstudio" height="45" title="Android Studio"/>
     <img src="https://skillicons.dev/icons?i=git" height="45" title="Git"/>
-    <img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub"/><br>
+    <img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub"/>
     <img src="https://skillicons.dev/icons?i=postman" height="45" title="Postman"/>
     <img src="https://skillicons.dev/icons?i=figma" height="45" title="Figma"/>
     <img src="https://skillicons.dev/icons?i=notion" height="45" title="Notion"/>
     <img src="https://skillicons.dev/icons?i=jenkins" height="45" title="Jenkins"/>
     <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker"/>
     <img src="https://skillicons.dev/icons?i=vercel" height="45" title="Vercel"/>
-    <!-- <img src="https://skillicons.dev/icons?i=slack" height="45" title="Slack"/> -->
     <img src="https://skillicons.dev/icons?i=discord" height="45" title="Discord"/>
     <img src="https://skillicons.dev/icons?i=obsidian" height="45" title="Obsidian"/>
   </p>
@@ -91,13 +90,13 @@ I enjoy building AI-driven systems, web applications, and automation tools.
 <td width="50%" valign="top">
 
   <h3 align="center">💾 Databases</h3>
-  <p align="center">
+  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
     <img src="https://skillicons.dev/icons?i=mysql" height="45" title="MySQL"/>
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB"/>
     <img src="https://skillicons.dev/icons?i=sqlite" height="45" title="SQLite"/>
     <img src="https://skillicons.dev/icons?i=postgres" height="45" title="PostgreSQL"/>
     <img src="https://skillicons.dev/icons?i=redis" height="45" title="Redis"/>
-    <img src="https://skillicons.dev/icons?i=firebase" height="45" title="Firebase"/><br>
+    <img src="https://skillicons.dev/icons?i=firebase" height="45" title="Firebase"/>
     <img src="https://skillicons.dev/icons?i=prisma" height="45" title="Prisma ORM"/>
     <img src="https://skillicons.dev/icons?i=supabase" height="45" title="Supabase"/>
     <img src="https://skillicons.dev/icons?i=neo4j" height="45" title="Neo4j"/>
@@ -107,7 +106,7 @@ I enjoy building AI-driven systems, web applications, and automation tools.
   </p>
 
   <h3 align="center">💻 Operating Systems</h3>
-  <p align="center">
+  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
     <img src="https://skillicons.dev/icons?i=linux" height="45" title="Linux"/>
     <img src="https://skillicons.dev/icons?i=ubuntu" height="45" title="Ubuntu"/>
     <img src="https://skillicons.dev/icons?i=windows" height="45" title="Windows"/>
@@ -123,6 +122,7 @@ I enjoy building AI-driven systems, web applications, and automation tools.
 </td>
 </tr>
 </table>
+
 
 
 
