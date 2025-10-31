@@ -30,71 +30,47 @@ I enjoy building AI-driven systems, web applications, and automation tools.
 <td width="50%" valign="top">
 
   <h3 align="center">🧠 Programming Languages</h3>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=c" height="45"/>
-    <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-    <img src="https://skillicons.dev/icons?i=python" height="45"/>
-    <img src="https://skillicons.dev/icons?i=java" height="45"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=bash" height="45"/>
-  </div>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,go" height="45"/><br>
+    <img src="https://skillicons.dev/icons?i=typescript,rust" height="45"/>
+  </p>
 
   <h3 align="center">⚙️ Frameworks & Libraries</h3>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=html" height="45"/>
-    <img src="https://skillicons.dev/icons?i=css" height="45"/>
-    <img src="https://skillicons.dev/icons?i=js" height="45"/>
-    <img src="https://skillicons.dev/icons?i=react" height="45"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
-    <img src="https://skillicons.dev/icons?i=django" height="45"/>
-    <img src="https://skillicons.dev/icons?i=flask" height="45"/>
-    <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
-    <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-  </div>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="45"/><br>
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,nextjs" height="45"/>
+  </p>
 
   <h3 align="center">🧰 Tools & IDEs</h3>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-    <img src="https://skillicons.dev/icons?i=pycharm" height="45"/>
-    <img src="https://skillicons.dev/icons?i=idea" height="45"/>
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="45"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=git" height="45"/>
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-    <img src="https://skillicons.dev/icons?i=postman" height="45"/>
-    <img src="https://skillicons.dev/icons?i=figma" height="45"/>
-  </div>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,git,github" height="45"/><br>
+    <img src="https://skillicons.dev/icons?i=postman,figma,notion,jenkins,docker,vercel" height="45"/>
+  </p>
 
 </td>
 
 <td width="50%" valign="top">
 
   <h3 align="center">💾 Databases</h3>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-    <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-    <img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-  </div>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,redis,firebase" height="45"/><br>
+    <img src="https://skillicons.dev/icons?i=prisma,supabase" height="45"/>
+  </p>
 
   <h3 align="center">💻 Operating Systems</h3>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux" height="45"/>
-    <img src="https://skillicons.dev/icons?i=windows" height="45"/>
-  </div>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" height="45"/>
+  </p>
 
   <br>
-
-  <div align="center">
+  <p align="center">
     <img src="https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png" width="80%">
-  </div>
+  </p>
 
 </td>
 </tr>
 </table>
+
 
 
 
