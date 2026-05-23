@@ -15,7 +15,7 @@
 </p>
 
 ---
-
+<pre>
 <span style="color:#000080;">╔═════════════════════ </span><span style="color:#000080;font-weight:bold;"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" />Hi There<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /></span><span style="color:#000080;">════════════════════╗ </span> 🤓 <a href="https://www.sumedhbhagat.tech">Sumedh Bhagat (sumedhbhagat.tech)</a>
 <span style="color:#000080;">║</span> I'm a Software Engineer from India.                      <span style="color:#000080;">║ </span> <span style="color:#008080;">┣━━ </span>🐍 Python Developer
 <span style="color:#000080;">║</span> Passionate about building real-world systems across      <span style="color:#000080;">║ </span> <span style="color:#008080;">┃   </span><span style="color:#008000;">┣━━ </span>⭐ Django / DRF
