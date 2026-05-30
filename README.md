@@ -1,9 +1,12 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Hariom%20Ashok%20Balang&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=14&descAlignY=58&descColor=a0cfff" />
-</div>
+</div> -->
+<div align="center">
+  <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500">
+</div>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hi!+I'm+Hariom+Balang+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Salesforce+Ranger+%7C+50k%2B+Points+%E2%9A%A1;Patent+Holder+%F0%9F%93%9C;5x+Regional+Kho-Kho+Player+%F0%9F%8F%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hi!+I'm+Hariom+Balang+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -42,9 +45,9 @@ sports     : 5x Regional Kho-Kho Player · Team Captain
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariom710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hariom710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hariom710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">
