@@ -1,14 +1,21 @@
 <div align="center">
-  <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500">
-</div>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Hariom%20Ashok%20Balang&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=14&descAlignY=58&descColor=a0cfff" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&width=435&lines=Hi!+I'm+Hariom+Balang;Full-Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hi!+I'm+Hariom+Balang+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Salesforce+Ranger+%7C+50k%2B+Points+%E2%9A%A1;Patent+Holder+%F0%9F%93%9C;5x+Regional+Kho-Kho+Player+%F0%9F%8F%85" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hariombalang"><img src="https://img.shields.io/badge/LinkedIn-hariombalang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://hariombalang.netlify.app"><img src="https://img.shields.io/badge/Portfolio-hariombalang.netlify.app-FF6B35?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="mailto:hariombalang@gmail.com"><img src="https://img.shields.io/badge/Gmail-hariombalang@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=hariom710&color=00C2CB&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-## 🕹️ My GitHub Contributions as a Breakout Game
+## 🕹️ GitHub Contributions Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hariom710/hariom710/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -16,219 +23,172 @@
 
 ---
 
-
-
-
-
 ## 👨‍💻 About Me
 
-**Hi, I'm Hariom Ashok Balang** 👋  
-A Computer Technology undergrad and aspiring software engineer from **India 🇮🇳**. I am passionate about **AI, Machine Learning, Web Development, and Automation**.  
-
-- 🎓 **Education**  
-  - **Bachelor of Technology (B.Tech) in Computer Technology**, Yeshwantrao Chavan College of Engineering, Nagpur — CGPA: 8.0  
-  - **Higher Secondary Certificate (12th)**, Jawahar Navodaya Vidyalaya, Washim — 87%  
-  - **Secondary School Certificate (10th)**, Jawahar Navodaya Vidyalaya, Washim — 94%  
-
-- 🏆 **Patent**  
-  - **EV Charging Demand Prediction System**  
-  - **Patent (Published):** “Advanced Monitoring and Control Mechanism for Electric Vehicle Charging Station using Machine Learning Algorithm”  
-  - **Application No.:** 202521090973 A, India  
-  - **Publication Date:** 10/10/2025  
-
-- 💻 **Key Projects**  
-  1. **EV Charging Demand Prediction System** — Python, Django, Scikit-learn, XGBoost  
-     - Built a Django-based web interface to predict EV charging demand using historical & real-time data.  
-     - Implemented ML models (Random Forest, XGBoost, Linear Regression) with R² up to 0.92.  
-     - Engineered features like SoC, temperature, and time; visualized trends with Matplotlib.  
-
-  2. **File Manager Tool** — Python, Tkinter, OS & Shutil  
-     - Desktop application for efficient file and folder management.  
-     - Integrated PDF functionalities: splitting, merging, compressing, and converting images to PDF.  
-     - Automated repetitive tasks for seamless workflow.  
-
-  3. **YouTube Chapter Summarizer** — NLP, LDA, NMF, Sklearn, Streamlit, Google Cloud  
-     - Extracts and summarizes YouTube video chapters automatically from transcripts.  
-     - Applied TF-IDF, LDA, and NMF to detect thematic breaks.  
-     - Integrated YouTube APIs and deployed backend on Google Colab with Django integration.  
-
-
-
-- 📜 **Certifications**  
-  - Geodata Processing Using Machine Learning (ISRO)  
-  - Ethical Hacking Essentials (EC-Council)  
-  - Introduction to Unix (InfySpringboard)  
-  - Machine Learning Onramp (MATLAB)  
-
-- 🏅 **Achievements & Interests**  
-  - Competitive Coding: CodeChef 2-Star  
-  - Sports: 5-time Regional Kho-Kho player, Regional-level team captain  
-
----
-
-
----
-
-## :hammer_and_wrench: Skills
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-  <h3 align="center">🧠 Programming Languages</h3>
-  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
-    <img src="https://skillicons.dev/icons?i=c" height="45" title="C"/>
-    <img src="https://skillicons.dev/icons?i=cpp" height="45" title="C++"/>
-    <img src="https://skillicons.dev/icons?i=python" height="45" title="Python"/>
-    <img src="https://skillicons.dev/icons?i=java" height="45" title="Java"/>
-    <img src="https://skillicons.dev/icons?i=bash" height="45" title="Bash"/>
-    <img src="https://skillicons.dev/icons?i=go" height="45" title="Go"/>
-    <img src="https://skillicons.dev/icons?i=typescript" height="45" title="TypeScript"/>
-    <img src="https://skillicons.dev/icons?i=rust" height="45" title="Rust"/>
-    <img src="https://skillicons.dev/icons?i=r" height="45" title="R"/>
-    <img src="https://skillicons.dev/icons?i=matlab" height="45" title="MATLAB"/>
-    <img src="https://skillicons.dev/icons?i=kotlin" height="45" title="Kotlin"/>
-    <img src="https://skillicons.dev/icons?i=swift" height="45" title="Swift"/>
-  </p>
-
-  <h3 align="center">⚙️ Frameworks & Libraries</h3>
-  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
-    <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML5"/>
-    <img src="https://skillicons.dev/icons?i=css" height="45" title="CSS3"/>
-    <img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript"/>
-    <img src="https://skillicons.dev/icons?i=react" height="45" title="React"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="45" title="Bootstrap"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" height="45" title="Tailwind CSS"/>
-    <img src="https://skillicons.dev/icons?i=django" height="45" title="Django"/>
-    <img src="https://skillicons.dev/icons?i=flask" height="45" title="Flask"/>
-    <img src="https://skillicons.dev/icons?i=fastapi" height="45" title="FastAPI"/>
-    <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js"/>
-    <img src="https://skillicons.dev/icons?i=express" height="45" title="Express.js"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" height="45" title="Next.js"/>
-    <img src="https://skillicons.dev/icons?i=spring" height="45" title="Spring Boot"/>
-    <img src="https://skillicons.dev/icons?i=jquery" height="45" title="jQuery"/>
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="45" title="TensorFlow"/>
-    <img src="https://skillicons.dev/icons?i=pytorch" height="45" title="PyTorch"/>
-    <img src="https://skillicons.dev/icons?i=scikitlearn" height="45" title="Scikit-learn"/>
-    <img src="https://skillicons.dev/icons?i=opencv" height="45" title="OpenCV"/>
-  </p>
-
-  <h3 align="center">🧰 Tools & IDEs</h3>
-  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
-    <img src="https://skillicons.dev/icons?i=vscode" height="45" title="Visual Studio Code"/>
-    <img src="https://skillicons.dev/icons?i=pycharm" height="45" title="PyCharm"/>
-    <img src="https://skillicons.dev/icons?i=idea" height="45" title="IntelliJ IDEA"/>
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="45" title="Android Studio"/>
-    <img src="https://skillicons.dev/icons?i=git" height="45" title="Git"/>
-    <img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub"/>
-    <img src="https://skillicons.dev/icons?i=postman" height="45" title="Postman"/>
-    <img src="https://skillicons.dev/icons?i=figma" height="45" title="Figma"/>
-    <img src="https://skillicons.dev/icons?i=notion" height="45" title="Notion"/>
-    <img src="https://skillicons.dev/icons?i=jenkins" height="45" title="Jenkins"/>
-    <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker"/>
-    <img src="https://skillicons.dev/icons?i=vercel" height="45" title="Vercel"/>
-    <img src="https://skillicons.dev/icons?i=discord" height="45" title="Discord"/>
-    <img src="https://skillicons.dev/icons?i=obsidian" height="45" title="Obsidian"/>
-  </p>
-
-</td>
-
-<td width="50%" valign="top">
-
-  <h3 align="center">💾 Databases</h3>
-  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
-    <img src="https://skillicons.dev/icons?i=mysql" height="45" title="MySQL"/>
-    <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB"/>
-    <img src="https://skillicons.dev/icons?i=sqlite" height="45" title="SQLite"/>
-    <img src="https://skillicons.dev/icons?i=postgres" height="45" title="PostgreSQL"/>
-    <img src="https://skillicons.dev/icons?i=redis" height="45" title="Redis"/>
-    <img src="https://skillicons.dev/icons?i=firebase" height="45" title="Firebase"/>
-    <img src="https://skillicons.dev/icons?i=prisma" height="45" title="Prisma ORM"/>
-    <img src="https://skillicons.dev/icons?i=supabase" height="45" title="Supabase"/>
-    <img src="https://skillicons.dev/icons?i=neo4j" height="45" title="Neo4j"/>
-    <img src="https://skillicons.dev/icons?i=cassandra" height="45" title="Cassandra"/>
-    <img src="https://skillicons.dev/icons?i=elasticsearch" height="45" title="Elasticsearch"/>
-    <img src="https://skillicons.dev/icons?i=dynamodb" height="45" title="DynamoDB"/>
-  </p>
-
-  <h3 align="center">💻 Operating Systems</h3>
-  <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;">
-    <img src="https://skillicons.dev/icons?i=linux" height="45" title="Linux"/>
-    <img src="https://skillicons.dev/icons?i=ubuntu" height="45" title="Ubuntu"/>
-    <img src="https://skillicons.dev/icons?i=windows" height="45" title="Windows"/>
-    <img src="https://skillicons.dev/icons?i=apple" height="45" title="MacOS"/>
-    <img src="https://skillicons.dev/icons?i=kali" height="45" title="Kali Linux"/>
-  </p>
-
-  <br>
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png" width="80%">
-  </p>
-
-</td>
-</tr>
-</table>
-
-
-
-
-
-
-
-
-
-## 🧩 Open Source Contributions
-<details>
-<summary>Click to view</summary>
-<br>
-⭐ Coming soon — currently contributing to open-source Python and AI projects.
-</details>
+```yaml
+name       : Hariom Ashok Balang
+location   : Washim, Maharashtra, India 🇮🇳
+education  : B.Tech Computer Technology — YCCE Nagpur (2022–2026) | CGPA: 8.05
+role       : Trainee Analyst @ Capgemini (Jan 2026–present)
+focus      : Full-Stack Dev · AI/ML · Cloud · Competitive Programming
+patent     : "EV Charging Demand Prediction" — App No. 202521090973 A (Oct 2025)
+codechef   : 2-Star | 270+ DSA problems solved
+salesforce : Trailhead Ranger · 50k+ points · Agentblazer Champion
+sports     : 5x Regional Kho-Kho Player · Team Captain
+```
 
 ---
 
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariom710&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=hariom710&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom710&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariom710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hariom710&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
 </p>
 
 ---
 
+## 💼 Experience
 
+| Role | Company | Period | Stack |
+|---|---|---|---|
+| **Trainee Analyst** | Capgemini | Jan 2026 – Present | C#, ASP.NET Core, Angular, SQL Server |
+| **Python Developer Intern** | Infosys Springboard | 2024 | Python, Django, ML |
+| **Salesforce Developer Intern** | SmartBridge | 2024 | Apex, LWC, Flows |
+| **ML Intern** | ISRO | 2023 | Python, Geodata, Scikit-Learn |
+| **AI Intern** | Microsoft via Edunet/AICTE | 2023 | Azure AI, Python |
 
-## 🧠 Recent Blog Posts
-Here are some of my latest blog posts:
-- [Building a File Management System with Python](https://github.com/hariom710)
+---
 
-Check them out to explore new ideas and technical concepts!
+## 🚀 Key Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ EVOptima — EV Charging Prediction
+Python · Django · XGBoost · Random Forest  
+- Predicted EV charging demand with R² = 0.92
+- Real-time monitoring via Django Channels WebSockets
+- Fault detection with instant alerts
+- **Patent No. 202521090973 A** (Published Oct 2025)
+
+</td>
+<td width="50%">
+
+### 🏢 Workforce Management System
+ASP.NET Core · Angular · Azure · JWT  
+- Enterprise HR platform with CI/CD on Azure DevOps
+- JWT auth, BCrypt hashing, role-based access
+- Python bulk importer for CSV employee records
+- QuestPDF timesheet generation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📈 Crypto Portfolio Management
+Python · Flask · Pandas · Scikit-Learn  
+- Portfolio metrics: Sharpe ratio, Sortino, Max Drawdown
+- Risk checker with Gmail SMTP alert pipeline
+- Parallel strategy execution via ThreadPoolExecutor
+- Stress testing under Bull/Bear/Volatile markets
+
+</td>
+<td width="50%">
+
+### 🎬 YouTube Chapter Summarizer
+NLP · TF-IDF · LDA · Streamlit · GCP  
+- Auto-extracts and summarizes YouTube chapters
+- TF-IDF + LDA topic modeling for thematic breaks
+- YouTube API integration + GCP backend deployment
+- Django integration for web interface
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Skills
+
+### 🧠 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,typescript,js,bash,r" height="45"/>
+</p>
+
+### ⚙️ Frameworks and Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,dotnet,react,angular,nodejs,nextjs" height="45"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,bootstrap,tailwind,spring,express" height="45"/>
+</p>
+
+### 💾 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase" height="45"/>
+</p>
+
+### ☁️ Cloud and DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,vscode,postman,figma" height="45"/>
+</p>
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle |
+| Geodata Processing Using Machine Learning | ISRO |
+| Python Foundation | Infosys Springboard |
+| Ethical Hacking Essentials | EC-Council |
+| Machine Learning Onramp | MATLAB |
+| Salesforce Trailhead Ranger (50k+ pts) | Salesforce |
 
 ---
 
 ## 👨‍💻 Coding Profiles
 
-<div align="center">
- <a href="https://www.geeksforgeeks.org/user/hariombalang/"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
- <a href="https://leetcode.com/u/hariom71/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
- <a href="https://www.hackerrank.com/profile/hariombalang"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
- <a href="https://www.codechef.com/users/hariom710"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
- <a href="https://codeforces.com/profile/hariom71"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-</div>
+<p align="center">
+  <a href="https://leetcode.com/u/hariom71/"><img src="https://img.shields.io/badge/LeetCode-270%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/hariom710"><img src="https://img.shields.io/badge/CodeChef-2_Star-964B00?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/hariom017"><img src="https://img.shields.io/badge/Codeforces-hariom017-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/hariombalang"><img src="https://img.shields.io/badge/HackerRank-hariombalang-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/hariombalang/"><img src="https://img.shields.io/badge/GeeksforGeeks-hariombalang-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📬 Contact
+## 🏅 Achievements
+
+| Achievement | Details |
+|---|---|
+| 🏆 Patent Holder | EV Charging Demand Prediction — App No. 202521090973 A |
+| ⚡ Salesforce Ranger | 50k+ Trailhead points · Agentblazer Champion |
+| 🧠 Competitive Programmer | CodeChef 2-Star · 270+ DSA problems on LeetCode |
+| 🏅 Kaggle | 16 badges across ML competitions and notebooks |
+| 🏃 Regional Athlete | 5x Regional Kho-Kho Player · Team Captain |
+
+---
+
+## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hariombalang"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://hariombalang.netlify.app/"><img src="https://img.icons8.com/doodle/48/domain.png" alt="Website"/></a>
-  <a href="https://www.instagram.com/hariom_itself_/"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/hariombalang"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://hariombalang.netlify.app/"><img src="https://img.icons8.com/doodle/48/domain.png" alt="Website"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/hariom710"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hariom_itself_/"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/></a>&nbsp;&nbsp;
   <a href="mailto:hariombalang@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariom710&color=blueviolet&style=flat-square" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer" />
+</div>
