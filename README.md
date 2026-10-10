@@ -32,7 +32,7 @@
 name       : Hariom Ashok Balang
 location   : Washim, Maharashtra, India 🇮🇳
 education  : B.Tech Computer Technology — YCCE Nagpur (2022–2026) | CGPA: 8.05
-role       : Trainee Analyst @ Capgemini (Jan 2026–present)
+role       : Trainee Analyst @ Capgemini (Jan 2026–June 2026)
 focus      : Full-Stack Dev · AI/ML · Cloud · Competitive Programming
 patent     : "EV Charging Demand Prediction" — App No. 202521090973 A (Oct 2025)
 codechef   : 2-Star | 270+ DSA problems solved
@@ -60,7 +60,7 @@ sports     : 5x Regional Kho-Kho Player · Team Captain
 
 | Role | Company | Period | Stack |
 |---|---|---|---|
-| **Trainee Analyst** | Capgemini | Jan 2026 – Present | C#, ASP.NET Core, Angular, SQL Server |
+| **Trainee Analyst** | Capgemini | Jan 2026 – June 2026 | C#, ASP.NET Core, Angular, SQL Server |
 | **Python Developer Intern** | Infosys Springboard | 2024 | Python, Django, ML |
 | **Salesforce Developer Intern** | SmartBridge | 2024 | Apex, LWC, Flows |
 | **ML Intern** | ISRO | 2023 | Python, Geodata, Scikit-Learn |
